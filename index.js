@@ -26,7 +26,7 @@ function toggle_onclick($win, $navbar, width){
 
 var typed = new Typed('#typed' , {
     strings: [
-        '("Hello World");'
+        '("Hello World")'
         
     ],
     typeSpeed: 50,
