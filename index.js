@@ -37,8 +37,8 @@ var typed = new Typed('#typed' , {
 var typed_2 = new Typed('#typed_2' , {
     strings: [
         
-        'Web Developer',
-        'Software Developer'
+        'Student',
+        'Computer Science Undergrad'
     ],
     typeSpeed: 50,
     backSpeed: 50,
